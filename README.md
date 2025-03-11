@@ -1,2 +1,2 @@
 
-here try beta: ramitn-production.up.railway.app
+here try beta: https://ramitn-production.up.railway.app/
